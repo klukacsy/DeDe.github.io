@@ -8,7 +8,8 @@
 
 DeDe is a wordless collection of images for small children. The images feature simple stickman drawings depicting various activities. It stimulates the children's imagination and vocabulary as it inspires them to create their own story and talk about it.
 
-The first view you are brought to after launching the application is the landing page with the application logo.
+The first view you are brought to after launching the application is the landing page with the application logo:
+
 ![Image](./landingPage.png)
 
 Click on the red button to navigate to various views of the images.
@@ -77,6 +78,7 @@ This will open the browser or the Amazon application on your device:
 ### The Copyright
 
 [The Copyright Act (USA)](https://en.wikipedia.org/wiki/Copyright_law_of_the_United_States).
+
 [The Copyright Act (EU)](https://en.wikipedia.org/wiki/Copyright_law_of_the_European_Union).
 
 
