@@ -13,7 +13,6 @@ The first view you are brought to after launching the application is the landing
 ![Image](./landingPage.png)
 
 Click on the red button to navigate to various views of the images.
-Click on the Amazon logo button to view the images offered as a printed papercover book offered on the Amazon.
 
 ### Navigation
 
@@ -67,13 +66,7 @@ This allows you to restart your flow or select the Amazon icon to view purchasin
 
 ### Printed hard-copy
 
-Navigate to the Amazon offering by clicking the Amazon logo button:
-
-![Image](./amazonView.png)
-
-This will open the browser or the Amazon application on your device:
-
-[here](https://www.amazon.com/dp/B08F6TVYR2).
+The drawings are available at Amazon as printed paperback book or on Kindle: [view in Amazon](https://www.amazon.com/dp/B08F6TVYR2).
 
 ### The Copyright
 
@@ -84,8 +77,13 @@ This will open the browser or the Amazon application on your device:
 
 ## Demo
 
+iPhone:
 
-[![Watch the video](./landingPage.png)] (./DeDeDemo.mov)
+[![Watch the video](./landingPage.png)](./DeDeDemo.mp4)
+
+iPad:
+
+[![Watch the video](./landingPage.png)](./DeDeDemoIPad.mp4)
 
 
 ## Support
