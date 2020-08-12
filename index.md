@@ -1,6 +1,6 @@
 
 
-![Image](./appStoreIcon.png)
+[![Image](./appStoreIcon.png)](https://apps.apple.com/us/app/dede/id1527028274)
 
 ![Image](./appIcon.png)
 
@@ -91,4 +91,4 @@ iPad:
 For any kind of feedback use `dede <dot> book <dot> katarina <dot> lukacsy <at> gmail <dot> com` email address.
 
 
-![Image](./appStoreIcon.png)
+[![Image](./appStoreIcon.png)](https://apps.apple.com/us/app/dede/id1527028274)
